@@ -336,4 +336,4 @@
 		module.exports = $.fn.quicksearch;
 	}
 	
-})(jQuery, this);
+})(jQuery, window);
